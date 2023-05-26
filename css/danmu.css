@@ -1,0 +1,32 @@
+#danmu-container {
+  position: fixed;
+  top: 200px;
+  right: 100px;
+  width: 300px;
+  height: 500px; /* 修改高度 */
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+#danmu-input {
+  padding: 10px;
+  text-align: center; /* 居中显示 */
+}
+
+
+#danmu-text {
+  width: 200px;
+  padding: 5px;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+}
+
+#danmu-send {
+  padding: 5px 10px;
+  background-color: #0099ff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  
+}
